@@ -97,7 +97,6 @@ const parrafoOver = document.querySelectorAll('section p')
     
  };
 
-
  //premium
 
- 
+
